@@ -1,0 +1,5 @@
+{
+  "appTitle": "Ratatoskr",
+  "chatPlaceholder": "Send a command or a message...",
+  "themeCommand": "Theme switched to {themeName}"
+}
